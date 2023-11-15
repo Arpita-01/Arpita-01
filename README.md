@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arpita-01
-- 👀 I’m interested in ...
+- 👀 I’m interested in codeing
 - 🌱 I’m currently learning ...
 <!---
 Arpita-01/Arpita-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
